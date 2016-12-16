@@ -19,7 +19,9 @@ You can add optional parameters to show the surface plot of -q (negative reward)
 For example:
 
 `python final.py 1 1` will train on 1 episode, and then display the interface for 1 episode (on trained data)
+
 `python final.py 1000 1 0` will train on 1000 episodes, then display the interface for 1 episode (on trained data) and show the surface plot after the 1st episode (episode 1 = index 0)
+
 `python final.py 1000 10 0 9 99 999` will train on 1000 episodes, then display the interface for 10 subsequent episodes (on trained data) and show the surface plot after the 1st, 10th, 100th and final trained episode.
 
 Should work out of the box once modules are installed.
