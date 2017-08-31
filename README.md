@@ -2,8 +2,7 @@
 
 AIST ML Team
 
-Provided code based on RL presentation (formulation of algorithms leading up to a true online TD(lambda) method using coarse coding as a function approximator to the OpenAI MountainCar environment).
-
+Provided code based on an RL presentation I gave at AIST on RL. The provided code is a fully working formulation of a true online TD(lambda) method using coarse coding as a function approximator to the OpenAI MountainCar environment (i.e. no ANNs).
 
 You'll need to install the following modules:
 
