@@ -1,8 +1,10 @@
 # mountaincar
 
-AIST ML Team
+## NOTE: This was the very first Python code I had ever written, hence the poor styling and code review. Once I have some time I will improve the code. For better examples of my coding in Python please request access to my currently private NLP/vision based repos.
 
-Provided code based on an RL presentation I gave at AIST on RL. The provided code is a fully working formulation of a true online TD(lambda) method using coarse coding as a function approximator to the OpenAI MountainCar environment (i.e. no ANNs).
+During my time on AIST's ML Team
+
+Provided code based on an RL presentation I gave at AIST on RL. The provided code is a fully working formulation of a true online TD(lambda) method using coarse coding as a function approximator to the OpenAI MountainCar environment (i.e. no NNs).
 
 You'll need to install the following modules:
 
